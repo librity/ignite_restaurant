@@ -10,7 +10,8 @@ interface IconProps {
 
 interface InputProps {
   name: string;
-  icon: ({}: IconProps) => JSX.Element;
+  placeholder: string;
+  icon?: ({}: IconProps) => JSX.Element;
 }
 
 const Input = ({ name, icon: Icon, ...rest }: InputProps) => {
