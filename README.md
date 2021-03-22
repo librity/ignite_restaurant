@@ -61,3 +61,4 @@ You can create a new item by clicking in `Novo Prato`.
 - https://www.tutorialspoint.com/typescript/typescript_interfaces.htm
 - https://stackoverflow.com/questions/61475289/property-value-does-not-exist-on-type-never-when-use-useref-hook-in-mui
 - https://www.pluralsight.com/guides/defining-props-in-react-function-component-with-typescript
+- https://www.logicbig.com/tutorials/misc/typescript/interface-describing-function.html
