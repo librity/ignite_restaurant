@@ -54,6 +54,7 @@ You can create a new item by clicking in `Novo Prato`.
 ## Docs <a name = "docs"></a>
 
 - https://github.com/typicode/json-server
+- https://www.typescriptlang.org/download
 
 ## Resources <a name = "resources"></a>
 
